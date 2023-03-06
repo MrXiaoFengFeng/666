@@ -1,0 +1,18 @@
+[
+  {
+    "method": "GET",
+    "url": "http://httpbin.org/get",
+    "params": {
+      "key1": "v1",
+      "key2": "v2"
+    }
+  },
+  {
+    "method": "post",
+    "url": "http://httpbin.org/post",
+    "params": {
+      "key1": "v3",
+      "key2": "v4"
+    }
+  }
+]

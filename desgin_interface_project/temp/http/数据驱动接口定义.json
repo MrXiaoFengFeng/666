@@ -1,0 +1,25 @@
+{
+  "http_version": "2.0",
+  "method": "POST",
+  "params": {
+    "key1": "v1",
+    "key2": "v2"
+  },
+  "data": {
+    "key1": "v1",
+    "key2": "v2"
+  },
+  "json": {
+    "key1": "v1",
+    "key2": "v2"
+  },
+  "headers": {
+    "key1": "v1",
+    "key2": "v2"
+  },
+  "cookies": {
+    "key1": "v1",
+    "key2": "v2"
+  },
+  "url": "url"
+}

@@ -1,0 +1,5 @@
+tom 19
+lili 10
+trace 20
+jojo 18
+trace 19

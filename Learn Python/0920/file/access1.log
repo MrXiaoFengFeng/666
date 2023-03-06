@@ -1,0 +1,15 @@
+2022-11-08 19:38:58 PM - root - DEBUG - 18_01logging妯″潡: 璋冭瘯bug
+2022-11-08 19:38:58 PM - root - INFO - 18_01logging妯″潡: 娑堟伅info
+2022-11-08 19:38:58 PM - root - WARNING - 18_01logging妯″潡: 璀﹀憡warning
+2022-11-08 19:38:58 PM - root - ERROR - 18_01logging妯″潡: 閿欒error
+2022-11-08 19:38:58 PM - root - CRITICAL - 18_01logging妯″潡: 涓ラ噸critical
+2022-11-08 20:38:57 PM - root - DEBUG - 18_01logging模块: 调试bug
+2022-11-08 20:38:57 PM - root - INFO - 18_01logging模块: 消息info
+2022-11-08 20:38:57 PM - root - WARNING - 18_01logging模块: 警告warning
+2022-11-08 20:38:57 PM - root - ERROR - 18_01logging模块: 错误error
+2022-11-08 20:38:57 PM - root - CRITICAL - 18_01logging模块: 严重critical
+2022-11-08 23:15:41 PM - root - DEBUG - 18_01logging模块: 调试bug
+2022-11-08 23:15:41 PM - root - INFO - 18_01logging模块: 消息info
+2022-11-08 23:15:41 PM - root - WARNING - 18_01logging模块: 警告warning
+2022-11-08 23:15:41 PM - root - ERROR - 18_01logging模块: 错误error
+2022-11-08 23:15:41 PM - root - CRITICAL - 18_01logging模块: 严重critical
