@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 10 01:41:33 CST 2023","Fri Mar 10 01:41:33 CST 2023","2","","test_attach","","","","test_attach_text",""
+"passed","Fri Mar 10 01:41:33 CST 2023","Fri Mar 10 01:41:33 CST 2023","2","","test_attach","","","","test_attach_jpg",""
+"passed","Fri Mar 10 01:41:33 CST 2023","Fri Mar 10 01:41:33 CST 2023","2","","test_attach","","","","test_attach_html",""

@@ -12,6 +12,6 @@ def login():
 def pytest_configure(config):
     marker_list = ['search', 'login']
     for markers in marker_list:
-        config.addinalue_line(
+        config.addinivalue_line(
             'markers', markers
         )
