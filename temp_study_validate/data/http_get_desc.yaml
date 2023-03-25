@@ -1,0 +1,24 @@
+test_suite:
+  - case_desc: 发送GET请求成功
+    request:
+      method: get
+      url: https://httpbin.org/get
+      params:
+        key1: 1
+        key2: 2
+      headers:
+        h1: h1
+        h2: h2
+    validate:
+      - key_word: eq
+        expect_data:
+
+
+#  - method: get
+#    url: https://httpbin.org/get
+#    params:
+#      key3: 3
+#      key4: 4
+#    headers:
+#      h3: h3
+#      h4: h4

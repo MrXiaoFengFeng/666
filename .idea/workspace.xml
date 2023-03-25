@@ -11,12 +11,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c936c28c-31ba-4e87-83c4-07b23179419d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Selenium/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/test_h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/test_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tencent12ProTesting/python/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProjectApiTest/temp_src/new_requests_api_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/data/http_get_testsuit.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/data/http_get_testsuit1.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/test_case/test_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/utils/1http_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/utils/data_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/utils/data_handler1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_demo/utils/http_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study/test_case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study/utils/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_study_validate/utils/http_client_V4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WorkSpace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WorkSpace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver_win32.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -28,7 +58,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="2MeelD9x5NYjk6A5UWYIGApybpG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,47 +68,126 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/request_demo/data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in Unittest_demo">
-    <configuration name="pytest in Unittest_demo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="WorkSpace" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="WorkSpace" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\temp_study_validate\utils" />
+      <recent name="E:\WorkSpace\temp_study\test_case" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\request_demo\data" />
+      <recent name="E:\WorkSpace\request_demo\utils" />
+      <recent name="E:\WorkSpace\pythonProjectApiTest\temp_src" />
+      <recent name="E:\WorkSpace\temp_study\utils" />
+      <recent name="E:\WorkSpace\temp_study\a" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data_handler1">
+    <configuration name="data_handler1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unittest_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/request_demo/utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Unittest_demo&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request_demo/utils/data_handler1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_demo.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WorkSpace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unittest_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/request_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Unittest_demo/test_demo.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request_demo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_h" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WorkSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/test_h.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_wait" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WorkSpace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/test_wait.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in Unittest_demo" />
-        <item itemvalue="Python tests.pytest in test_demo.py" />
+        <item itemvalue="Python.data_handler1" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test_wait" />
+        <item itemvalue="Python.test_h" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +204,19 @@
       <workItem from="1678132625077" duration="1200000" />
       <workItem from="1678133836467" duration="2578000" />
       <workItem from="1678165764309" duration="915000" />
+      <workItem from="1678549819945" duration="7753000" />
+      <workItem from="1678601139951" duration="7089000" />
+      <workItem from="1678697935706" duration="9291000" />
+      <workItem from="1678767765746" duration="16571000" />
+      <workItem from="1678848397873" duration="26886000" />
+      <workItem from="1678936187664" duration="17251000" />
+      <workItem from="1679024008866" duration="13426000" />
+      <workItem from="1679067518960" duration="53000" />
+      <workItem from="1679304493146" duration="878000" />
+      <workItem from="1679368692968" duration="876000" />
+      <workItem from="1679543214006" duration="18326000" />
+      <workItem from="1679630021425" duration="19154000" />
+      <workItem from="1679736115639" duration="5959000" />
     </task>
     <task id="LOCAL-00001" summary="??">
       <created>1678133456333</created>
@@ -166,42 +290,74 @@
     <option name="LAST_COMMIT_MESSAGE" value="66" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1679665297605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1679665297605" />
+    <state x="1030" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1678783151940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1030" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1678783151940" />
     <state x="244" y="7" key="CommitChangelistDialog2" timestamp="1678168395208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="244" y="7" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1678168395208" />
-    <state x="216" y="131" key="DiffContextDialog" timestamp="1678135700727">
+    <state x="136" y="39" width="1536" height="860" maximized="true" key="DiffContextDialog" timestamp="1679027552811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="216" y="131" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678135700727" />
-    <state x="754" y="195" key="FileChooserDialogImpl" timestamp="1678133833343">
+    <state x="136" y="39" width="1536" height="860" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1679027552811" />
+    <state x="754" y="195" key="FileChooserDialogImpl" timestamp="1679067206941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="195" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1678133833343" />
+    <state x="754" y="195" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1679067206941" />
     <state x="981" y="373" key="Github.ShareDialog" timestamp="1678168422172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="981" y="373" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678168422172" />
-    <state width="1297" height="230" key="GridCell.Tab.0.bottom" timestamp="1678168306835">
+    <state width="1661" height="473" key="GridCell.Tab.0.bottom" timestamp="1679755890067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1678168306835" />
-    <state width="1297" height="230" key="GridCell.Tab.0.center" timestamp="1678168306835">
+    <state width="1661" height="473" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1679755890067" />
+    <state width="1661" height="473" key="GridCell.Tab.0.center" timestamp="1679755890066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1678168306835" />
-    <state width="1297" height="230" key="GridCell.Tab.0.left" timestamp="1678168306835">
+    <state width="1661" height="473" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1679755890066" />
+    <state width="1661" height="473" key="GridCell.Tab.0.left" timestamp="1679755890066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1678168306835" />
-    <state width="1297" height="230" key="GridCell.Tab.0.right" timestamp="1678168306835">
+    <state width="1661" height="473" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1679755890066" />
+    <state width="1661" height="473" key="GridCell.Tab.0.right" timestamp="1679755890066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1297" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1678168306835" />
+    <state width="1661" height="473" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1679755890066" />
+    <state width="1867" height="306" key="GridCell.Tab.1.bottom" timestamp="1679584952321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1679584952321" />
+    <state width="1867" height="306" key="GridCell.Tab.1.center" timestamp="1679584952321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1679584952321" />
+    <state width="1867" height="306" key="GridCell.Tab.1.left" timestamp="1679584952321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1679584952321" />
+    <state width="1867" height="306" key="GridCell.Tab.1.right" timestamp="1679584952321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="306" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1679584952321" />
+    <state x="392" y="115" key="SettingsEditor" timestamp="1679650339112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="392" y="115" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1679650339112" />
     <state x="484" y="232" key="Vcs.Push.Dialog.v2" timestamp="1678135702622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="484" y="232" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1678135702622" />
+    <state x="401" y="183" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1679571645935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="401" y="183" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1679571645935" />
     <state x="618" y="338" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1678168254498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -210,9 +366,44 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="791" y="370" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678133785836" />
+    <state x="624" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1679664413588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1679664413588" />
+    <state x="667" y="413" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1678975935748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="413" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1678975935748" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request_desc" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WorkSpace$test_http_get.coverage" NAME="test_http_get Coverage Results" MODIFIED="1678870742449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp_study/test_case" />
+    <SUITE FILE_PATH="coverage/WorkSpace$new_requests_api_post.coverage" NAME="new_requests_api_post Coverage Results" MODIFIED="1679633079939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProjectApiTest/temp_src" />
     <SUITE FILE_PATH="coverage/WorkSpace$pytest_in_test_demo_py.coverage" NAME="pytest in test_demo.py Coverage Results" MODIFIED="1678168284285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unittest_demo" />
+    <SUITE FILE_PATH="coverage/WorkSpace$http_client_V3.coverage" NAME="http_client_V3 Coverage Results" MODIFIED="1678976654990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp_study_validate/utils" />
+    <SUITE FILE_PATH="coverage/WorkSpace$data_handler.coverage" NAME="data_handler Coverage Results" MODIFIED="1678897187981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/utils" />
+    <SUITE FILE_PATH="coverage/WorkSpace$data_handler1.coverage" NAME="data_handler1 Coverage Results" MODIFIED="1679756067345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/utils" />
     <SUITE FILE_PATH="coverage/WorkSpace$pytest_in_Unittest_demo.coverage" NAME="pytest in Unittest_demo Coverage Results" MODIFIED="1678168306822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unittest_demo" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_h.coverage" NAME="test_h Coverage Results" MODIFIED="1679665682891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_http_post_V3.coverage" NAME="test_http_post_V3 Coverage Results" MODIFIED="1678976664890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp_study_validate/test_case" />
+    <SUITE FILE_PATH="coverage/WorkSpace$requests_api_post.coverage" NAME="requests_api_post Coverage Results" MODIFIED="1679571279267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProjectApiTest/temp_src" />
+    <SUITE FILE_PATH="coverage/WorkSpace$1.coverage" NAME="1 Coverage Results" MODIFIED="1678817416786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp_study/a" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_http_get__1_.coverage" NAME="test_http_get (1) Coverage Results" MODIFIED="1678867900901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/test_case" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_http__1_.coverage" NAME="test_http (1) Coverage Results" MODIFIED="1679646632616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/test_case" />
+    <SUITE FILE_PATH="coverage/WorkSpace$http_client__1_.coverage" NAME="http_client (1) Coverage Results" MODIFIED="1679048213067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp_study/utils" />
+    <SUITE FILE_PATH="coverage/WorkSpace$pytest_in_test_http_get_py.coverage" NAME="pytest in test_http_get.py Coverage Results" MODIFIED="1678553626018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temp_study/test_case" />
+    <SUITE FILE_PATH="coverage/WorkSpace$http_client.coverage" NAME="http_client Coverage Results" MODIFIED="1679578868793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/utils" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_http_success__1_.coverage" NAME="test_http_success (1) Coverage Results" MODIFIED="1678964600668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/test_case" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_wait.coverage" NAME="test_wait Coverage Results" MODIFIED="1679736581515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/WorkSpace$main.coverage" NAME="main Coverage Results" MODIFIED="1679754756385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo" />
+    <SUITE FILE_PATH="coverage/WorkSpace$data_handler__1_.coverage" NAME="data_handler (1) Coverage Results" MODIFIED="1678851178831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_demo/utils" />
+    <SUITE FILE_PATH="coverage/WorkSpace$new_obj.coverage" NAME="new_obj Coverage Results" MODIFIED="1679560764712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProjectApiTest/temp_src" />
+    <SUITE FILE_PATH="coverage/WorkSpace$test_demo.coverage" NAME="test_demo Coverage Results" MODIFIED="1679665049111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
   </component>
 </project>

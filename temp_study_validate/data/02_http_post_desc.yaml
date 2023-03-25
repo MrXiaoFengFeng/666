@@ -1,0 +1,33 @@
+test_suite:
+  - case_desc: 发送POST请求成功
+    request:
+      method: post
+      url: https://httpbin.org/post
+      json:
+        key1: 1
+        key2: 2
+      headers:
+        h1: h1
+        h2: h2
+    validate:
+#      - key_word: eq
+#        actual_data: json.json.key1
+#        expect_data: 1
+#        msg: POST请求响应key1断言失败
+      - key_word: eq
+        actual_data: status_code  # json.xxx.xxx  headers.xxx
+        expect_data: 200
+        msg: POST请求响应key2断言失败
+      - key_word: eq
+        actual_data: response.headers.Host  # json.xxx.xxx  headers.xxx
+        expect_data: httpbin.org
+        msg: POST请求响应key2断言失败
+
+#  - method: get
+#    url: https://httpbin.org/get
+#    params:
+#      key3: 3
+#      key4: 4
+#    headers:
+#      h3: h3
+#      h4: h4

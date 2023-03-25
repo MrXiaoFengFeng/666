@@ -1,0 +1,19 @@
+urls:
+  domian_v1: http://www.baidu.com
+  domian_v2: http://api.baidu.com
+
+
+mysqls:
+  mysql1:
+    host: 1
+    port: 3306
+    user: user
+    password: password
+
+
+reids:
+  redis1: redis1
+
+
+dingtalk:
+  talk1: talk1
