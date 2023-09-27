@@ -1,0 +1,3 @@
+platformName: Android
+newCommandTimeout: 200
+noReset: True

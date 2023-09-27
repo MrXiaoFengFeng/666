@@ -1,0 +1,1413 @@
+GoodPage:
+  leftText:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/leftText
+    text: 视频
+  text:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/text
+    text: 图片
+  tv_title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_title
+    text: 订金
+  tv_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_price
+    text: ¥100
+  tv_tip:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_tip
+    text: 抵300元
+  tv_subtitle:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_subtitle
+    text: 预售价
+  tv_market_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_market_price
+    text: ¥ 2699
+  tv_end_time_label:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_end_time_label
+    text: 距结束
+  day:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/day
+    text: 2天
+  hour:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/hour
+    text: '07'
+  minute:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/minute
+    text: '34'
+  second:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/second
+    text: '30'
+  description:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/description
+    text: 预计得250米金
+  more:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/more
+    text: 更多
+  product_name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/product_name
+    text: Redmi K40
+  product_detail_desc:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/product_detail_desc
+    text: 「7.29-31 K40 12GB+256GB版本订金100抵300元；购机享6期免息；8月1日付尾款前3000名赠生生不息果冻包+T恤」
+  text_flow:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/text_flow
+    text: K40系列购机福利
+  desc_external_item:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/desc_external_item
+    text: 机型对比
+  customer_service_title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/customer_service_title
+    text: 客服
+  cart_count:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/cart_count
+    text: '3'
+  action_text_org:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/action_text_org
+    text: 立即预订
+  price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/price
+    text: ¥1599
+  market_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/market_price
+    text: ¥1699
+  tag:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tag
+    text: 享6期免息
+  newPresenter_desc:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/newPresenter_desc
+    text: 来这里，发现属于你的新品
+  action_quick_buy:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/action_quick_buy
+    text: 立即购买
+  content:
+    id: android:id/content
+    text: ''
+  primary:
+    id: android:id/primary
+    text: ''
+  root_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/root_container
+    text: ''
+  childpage_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/childpage_container
+    text: ''
+  recycler_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/recycler_view
+    text: ''
+  refreshLayout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/refreshLayout
+    text: ''
+  gallery_viewpager:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/gallery_viewpager
+    text: ''
+  video_player:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/video_player
+    text: ''
+  image:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/image
+    text: ''
+  video_error_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/video_error_view
+    text: ''
+  playBtn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/playBtn
+    text: ''
+  loading_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/loading_container
+    text: ''
+  top:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/top
+    text: ''
+  title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/title
+    text: ''
+  btn_volume_switch:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/btn_volume_switch
+    text: ''
+  gallery_indicator:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/gallery_indicator
+    text: ''
+  centerLayout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/centerLayout
+    text: ''
+  scrollLayout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/scrollLayout
+    text: ''
+  slideView:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/slideView
+    text: ''
+  contentContainer:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/contentContainer
+    text: ''
+  leftLayout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/leftLayout
+    text: ''
+  leftIcon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/leftIcon
+    text: ''
+  gallery_indicator_item:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/gallery_indicator_item
+    text: ''
+  normal_price_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/normal_price_container
+    text: ''
+  tag_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tag_container
+    text: ''
+  container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/container
+    text: ''
+  newPresenter_img:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/newPresenter_img
+    text: ''
+  gotoarrow:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/gotoarrow
+    text: ''
+  name_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/name_container
+    text: ''
+  share_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/share_view
+    text: ''
+  index:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/index
+    text: ''
+  external_item_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/external_item_container
+    text: ''
+  img_external_item:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/img_external_item
+    text: ''
+  newBar:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/newBar
+    text: ''
+  childpage_new_titlebar:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/childpage_new_titlebar
+    text: ''
+  close_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/close_btn
+    text: ''
+  share_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/share_btn
+    text: ''
+  more_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/more_btn
+    text: ''
+  float_live_video_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/float_live_video_view
+    text: ''
+  video_player_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/video_player_container
+    text: ''
+  layout_live_show_gif:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/layout_live_show_gif
+    text: ''
+  live_show_gif:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/live_show_gif
+    text: ''
+  action_button_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/action_button_container
+    text: ''
+  customer_service_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/customer_service_btn
+    text: ''
+  customer_service_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/customer_service_icon
+    text: ''
+  fav_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/fav_btn
+    text: ''
+  fav_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/fav_icon
+    text: ''
+  cart_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/cart_btn
+    text: ''
+  cart_content:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/cart_content
+    text: ''
+  cart_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/cart_icon
+    text: ''
+  loading:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/loading
+    text: ''
+  divider:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/divider
+    text: ''
+  horizontal_scroll_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/horizontal_scroll_view
+    text: ''
+  ll_item_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/ll_item_container
+    text: ''
+  iv_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/iv_icon
+    text: ''
+  tv_top_title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_top_title
+    text: CPU
+  tv_bottom_title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_bottom_title
+    text: 天玑1100
+  rank_iv:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/rank_iv
+    text: ''
+  rank_name_tv:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/rank_name_tv
+    text: 【小米手机热销榜】第1名
+  rank_arrow_iv:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/rank_arrow_iv
+    text: ''
+  label:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/label
+    text: 信用换新
+  desc:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/desc
+    text: 信用换新至高补贴350元
+  arrow:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/arrow
+    text: ''
+  device_old:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/device_old
+    text: ''
+  exchange:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/exchange
+    text: ''
+  device_new:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/device_new
+    text: ''
+  bubble:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/bubble
+    text: 可享上门服务！
+  button:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/button
+    text: 立即换新
+  item_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/item_container
+    text: ''
+  select_goods_layout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/select_goods_layout
+    text: ''
+  barBg:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/barBg
+    text: ''
+  tab_strip:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tab_strip
+    text: ''
+  productDetail_slide_tab_strip_center:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/productDetail_slide_tab_strip_center
+    text: ''
+  goods_desc:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_desc
+    text: Redmi Note 10 Pro 6GB+128GB 幻青 x1
+  address_layout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/address_layout
+    text: ''
+  iv_address:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/iv_address
+    text: ''
+  layout_addressInfo:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/layout_addressInfo
+    text: ''
+  address:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/address
+    text: 北京市 昌平区
+  deliver_time_text:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/deliver_time_text
+    text: 付款后7日内发货
+  item_nearby_store:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/item_nearby_store
+    text: ''
+  tv_store_title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_store_title
+    text: 门店
+  layout_store_info:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/layout_store_info
+    text: ''
+  iv_store:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/iv_store
+    text: ''
+  tv_store_info:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_store_info
+    text: 小米之家北京昌平区昌发展万科广场专卖店  库存紧张
+  tv_store_address:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_store_address
+    text: 北京市昌平区龙域中街与龙域东二路交叉路口西侧(昌发展万科广场）   距离2.02km
+  layout_open_hours:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/layout_open_hours
+    text: ''
+  tv_store_opening_hours:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_store_opening_hours
+    text: 营业时间 10:00-22:00
+  tv_store_advise:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_store_advise
+    text: 立即咨询
+  layout_more_store:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/layout_more_store
+    text: ''
+  divider_line_store:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/divider_line_store
+    text: ''
+  tv_store_more:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_store_more
+    text: 更多附近门店(19)
+  rl_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/rl_container
+    text: ''
+  multi_row_layout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/multi_row_layout
+    text: ''
+  support_img:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/support_img
+    text: ''
+  support_desc:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/support_desc
+    text: 小米自营
+  right_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/right_btn
+    text: ''
+  main_product:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/main_product
+    text: ''
+  goods_imgview:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_imgview
+    text: ''
+  scroll_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/scroll_container
+    text: ''
+  set_child_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/set_child_container
+    text: ''
+  btn_up_to_top:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/btn_up_to_top
+    text: ''
+  detail_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/detail_container
+    text: ''
+  goods_name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_name
+    text: Redmi Note 10 Pro 6GB+128GB 幻青
+  goods_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_price
+    text: ¥1599
+  icon_add:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/icon_add
+    text: ''
+  goods_market_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_market_price
+    text: ¥229
+  check_setchild_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/check_setchild_btn
+    text: ''
+  tv_totalDesc:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_totalDesc
+    text: 总价
+  tv_totalPrice:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_totalPrice
+    text: ¥1946
+  tv_totalmarketPrice:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_totalmarketPrice
+    text: ¥1996
+  tv_totalsavePrice:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_totalsavePrice
+    text: 节省¥50
+  btn_setBuy:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/btn_setBuy
+    text: 购买此搭配（4件商品）
+  mi_circle_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/mi_circle_container
+    text: ''
+  user_img_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/user_img_container
+    text: ''
+  mi_circle_user_num:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/mi_circle_user_num
+    text: 快来互动吧
+  arrow_right:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/arrow_right
+    text: ''
+  buyer_show_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/buyer_show_container
+    text: ''
+  buyer_show_num:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/buyer_show_num
+    text: 共172525条评价
+  comment_tags_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/comment_tags_container
+    text: ''
+  buyer_show_img_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/buyer_show_img_container
+    text: ''
+  comment_image:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/comment_image
+    text: ''
+  questions_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/questions_container
+    text: ''
+  float_bottom_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/float_bottom_container
+    text: ''
+  exchange_float_bottom:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/exchange_float_bottom
+    text: ''
+  close:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/close
+    text: ''
+  question_num:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/question_num
+    text: 共1717个问题
+  questions_detail_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/questions_detail_container
+    text: ''
+  question_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/question_icon
+    text: ''
+  question_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/question_view
+    text: 🎁有奖 | 你记忆里的高考是什么样的？
+  answer_num:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/answer_num
+    text: 549个回答
+  goods_detail_content_widget_id:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_detail_content_widget_id
+    text: ''
+  content_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/content_container
+    text: ''
+  rightClick:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/rightClick
+    text: 查看全部
+  horizonPullView:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/horizonPullView
+    text: ''
+  videoLayout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/videoLayout
+    text: ''
+  video:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/video
+    text: ''
+  mi_video_controller_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/mi_video_controller_container
+    text: ''
+  mi_video_image:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/mi_video_image
+    text: ''
+  info:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/info
+    text: '#九洲开箱# 作为同价位最强水桶机，九哥带你看看Redmi Note10 Pro的表现到底怎么样？'
+  avatar:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/avatar
+    text: ''
+  name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/name
+    text: 小米新品早知道
+  itemChildContainer:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/itemChildContainer
+    text: ''
+  num:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/num
+    text: 5.5万
+  imageLayout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/imageLayout
+    text: ''
+  bgImage:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/bgImage
+    text: ''
+  view_pager:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/view_pager
+    text: ''
+  bannerViewPager:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/bannerViewPager
+    text: ''
+  ll_tab_title_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/ll_tab_title_container
+    text: ''
+  image_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/image_container
+    text: ''
+  iv_image:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/iv_image
+    text: ''
+  tv_name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/tv_name
+    text: Redmi K30S 至尊纪念版，骁龙865
+  imageNum:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/imageNum
+    text: 2/39
+IndexPage:
+  content:
+    id: com.xiaomi.shop.plugin.homepage:id/content
+    text: ''
+  primary:
+    id: android:id/primary
+    text: ''
+  main_container:
+    id: com.xiaomi.shop.plugin.homepage:id/main_container
+    text: ''
+  frameView:
+    id: com.xiaomi.shop.plugin.homepage:id/frameView
+    text: ''
+  rootView:
+    id: com.xiaomi.shop.plugin.homepage:id/rootView
+    text: ''
+  mountingContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/mountingContainer
+    text: ''
+  homeScrollView:
+    id: com.xiaomi.shop.plugin.homepage:id/homeScrollView
+    text: ''
+  pullView:
+    id: com.xiaomi.shop.plugin.homepage:id/pullView
+    text: ''
+  recyclerView:
+    id: com.xiaomi.shop.plugin.homepage:id/recyclerView
+    text: ''
+  background:
+    id: com.xiaomi.shop.plugin.homepage:id/background
+    text: ''
+  root_banner:
+    id: com.xiaomi.shop.plugin.homepage:id/root_banner
+    text: ''
+  banner:
+    id: com.xiaomi.shop.plugin.homepage:id/banner
+    text: ''
+  bannerViewPager:
+    id: com.xiaomi.shop.plugin.homepage:id/bannerViewPager
+    text: ''
+  indicator:
+    id: com.xiaomi.shop.plugin.homepage:id/indicator
+    text: ''
+  scrollLayout:
+    id: com.xiaomi.shop.plugin.homepage:id/scrollLayout
+    text: ''
+  slideView:
+    id: com.xiaomi.shop.plugin.homepage:id/slideView
+    text: ''
+  container_layout:
+    id: com.xiaomi.shop.plugin.homepage:id/container_layout
+    text: ''
+  home_hot_zone_view:
+    id: com.xiaomi.shop.plugin.homepage:id/home_hot_zone_view
+    text: ''
+  contentLayout:
+    id: com.xiaomi.shop.plugin.homepage:id/contentLayout
+    text: ''
+  pager:
+    id: com.xiaomi.shop.plugin.homepage:id/pager
+    text: ''
+  container:
+    id: com.xiaomi.shop.plugin.homepage:id/container
+    text: ''
+  image:
+    id: com.xiaomi.shop.plugin.homepage:id/image
+    text: ''
+  text:
+    id: com.xiaomi.shop.plugin.homepage:id/text
+    text: 小米上新
+  classifyContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/classifyContainer
+    text: ''
+  gallery_viewpager:
+    id: com.xiaomi.shop.plugin.homepage:id/gallery_viewpager
+    text: ''
+  rightBottomView:
+    id: com.xiaomi.shop.plugin.homepage:id/rightBottomView
+    text: ''
+  topBar:
+    id: com.xiaomi.shop.plugin.homepage:id/topBar
+    text: ''
+  leftBtn:
+    id: com.xiaomi.shop.plugin.homepage:id/leftBtn
+    text: ''
+  outSearchContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/outSearchContainer
+    text: ''
+  searchRoot:
+    id: com.xiaomi.shop.plugin.homepage:id/searchRoot
+    text: ''
+  searchContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/searchContainer
+    text: ''
+  searchIcon:
+    id: com.xiaomi.shop.plugin.homepage:id/searchIcon
+    text: ''
+  switcher:
+    id: com.xiaomi.shop.plugin.homepage:id/switcher
+    text: ''
+  scanIcon:
+    id: com.xiaomi.shop.plugin.homepage:id/scanIcon
+    text: ''
+  msgLayout:
+    id: com.xiaomi.shop.plugin.homepage:id/msgLayout
+    text: ''
+  msgBtn:
+    id: com.xiaomi.shop.plugin.homepage:id/msgBtn
+    text: ''
+  msgNum:
+    id: com.xiaomi.shop.plugin.homepage:id/msgNum
+    text: '9'
+  topBgView:
+    id: com.xiaomi.shop.plugin.homepage:id/topBgView
+    text: ''
+  arcViewContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/arcViewContainer
+    text: ''
+  arcView:
+    id: com.xiaomi.shop.plugin.homepage:id/arcView
+    text: ''
+  main_bottom_tab:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab
+    text: ''
+  main_bottom_home_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_home_navbar
+    text: ''
+  main_view_nav_bar_empty:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_empty
+    text: ''
+  main_view_nav_bar_icon_normal:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_icon_normal
+    text: ''
+  main_view_nav_bar_icon_selected:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_icon_selected
+    text: ''
+  main_view_nav_bar_text:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_text
+    text: 首页
+  main_bottom_home:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_home
+    text: ''
+  main_bottom_category_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_category_navbar
+    text: ''
+  main_bottom_category:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_category
+    text: ''
+  main_bottom_discovery_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_discovery_navbar
+    text: ''
+  main_bottom_discovery:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_discovery
+    text: ''
+  main_bottom_cart_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_cart_navbar
+    text: ''
+  main_view_nav_bar_num:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_num
+    text: '3'
+  main_bottom_cart:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_cart
+    text: ''
+  main_bottom_mine_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_mine_navbar
+    text: ''
+  main_view_nav_bar_point:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_point
+    text: ''
+  main_bottom_mine:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_mine
+    text: ''
+  main_bottom_tab_shadow:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab_shadow
+    text: ''
+  main_bottom_tab_bg:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab_bg
+    text: ''
+  gallery_indicator:
+    id: com.xiaomi.shop.plugin.homepage:id/gallery_indicator
+    text: ''
+  supernew_two_layout:
+    id: com.xiaomi.shop.plugin.homepage:id/supernew_two_layout
+    text: ''
+  supernew_two_title:
+    id: com.xiaomi.shop.plugin.homepage:id/supernew_two_title
+    text: 小米上新
+  supernew_two_container:
+    id: com.xiaomi.shop.plugin.homepage:id/supernew_two_container
+    text: ''
+  supernew_two_iv:
+    id: com.xiaomi.shop.plugin.homepage:id/supernew_two_iv
+    text: ''
+  supernew_two_tv:
+    id: com.xiaomi.shop.plugin.homepage:id/supernew_two_tv
+    text: 扫拖机器人2
+  flowAction:
+    id: com.xiaomi.shop.plugin.homepage:id/flowAction
+    text: ''
+  news_root:
+    id: com.xiaomi.shop.plugin.homepage:id/news_root
+    text: ''
+  news_bg:
+    id: com.xiaomi.shop.plugin.homepage:id/news_bg
+    text: ''
+  title:
+    id: com.xiaomi.shop.plugin.homepage:id/title
+    text: ''
+  label:
+    id: com.xiaomi.shop.plugin.homepage:id/label
+    text: 资讯
+  moreContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/moreContainer
+    text: ''
+  more:
+    id: com.xiaomi.shop.plugin.homepage:id/more
+    text: 更多
+  contentContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/contentContainer
+    text: ''
+  viewPager:
+    id: com.xiaomi.shop.plugin.homepage:id/viewPager
+    text: ''
+MinePage:
+  content:
+    id: android:id/content
+    text: ''
+  primary:
+    id: android:id/primary
+    text: ''
+  main_container:
+    id: com.xiaomi.shop.plugin.homepage:id/main_container
+    text: ''
+  frameView:
+    id: com.xiaomi.shop.plugin.homepage:id/frameView
+    text: ''
+  mine_rootView:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_rootView
+    text: ''
+  mine_root_bg:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_bg
+    text: ''
+  mine_root_avatar_layout:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_avatar_layout
+    text: ''
+  mine_root_avatar:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_avatar
+    text: ''
+  mine_root_recycler:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_recycler
+    text: ''
+  pullView:
+    id: com.xiaomi.shop.plugin.homepage:id/pullView
+    text: ''
+  recyclerView:
+    id: com.xiaomi.shop.plugin.homepage:id/recyclerView
+    text: ''
+  mine_top_bar_user_name:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_top_bar_user_name
+    text: 登录/注册
+  assets_item_top_icon:
+    id: com.xiaomi.shop.plugin.homepage:id/assets_item_top_icon
+    text: ''
+  assets_item_text:
+    id: com.xiaomi.shop.plugin.homepage:id/assets_item_text
+    text: 优惠券
+  top_ad_cell_left_layout:
+    id: com.xiaomi.shop.plugin.homepage:id/top_ad_cell_left_layout
+    text: ''
+  top_ad_cell_title:
+    id: com.xiaomi.shop.plugin.homepage:id/top_ad_cell_title
+    text: 会员中心
+  top_ad_cell_subtitle:
+    id: com.xiaomi.shop.plugin.homepage:id/top_ad_cell_subtitle
+    text: 新权益
+  top_ad_cell_arrow_right:
+    id: com.xiaomi.shop.plugin.homepage:id/top_ad_cell_arrow_right
+    text: ''
+  top_ad_cell_lottie:
+    id: com.xiaomi.shop.plugin.homepage:id/top_ad_cell_lottie
+    text: ''
+  top_ad_cell_line:
+    id: com.xiaomi.shop.plugin.homepage:id/top_ad_cell_line
+    text: ''
+  line:
+    id: com.xiaomi.shop.plugin.homepage:id/line
+    text: ''
+  binder_order_flexboxlayout:
+    id: com.xiaomi.shop.plugin.homepage:id/binder_order_flexboxlayout
+    text: ''
+  view_order_cell_icon:
+    id: com.xiaomi.shop.plugin.homepage:id/view_order_cell_icon
+    text: ''
+  view_order_cell_text:
+    id: com.xiaomi.shop.plugin.homepage:id/view_order_cell_text
+    text: 待付款
+  binder_service_title:
+    id: com.xiaomi.shop.plugin.homepage:id/binder_service_title
+    text: 官网服务
+  binder_service_more:
+    id: com.xiaomi.shop.plugin.homepage:id/binder_service_more
+    text: 查看更多
+  binder_service_flex_layout:
+    id: com.xiaomi.shop.plugin.homepage:id/binder_service_flex_layout
+    text: ''
+  view_service_cell_lottie:
+    id: com.xiaomi.shop.plugin.homepage:id/view_service_cell_lottie
+    text: ''
+  view_service_cell_title:
+    id: com.xiaomi.shop.plugin.homepage:id/view_service_cell_title
+    text: 售后服务
+  view_service_cell_subtitle:
+    id: com.xiaomi.shop.plugin.homepage:id/view_service_cell_subtitle
+    text: 优惠又省心
+  container:
+    id: com.xiaomi.shop.plugin.homepage:id/container
+    text: ''
+  tabContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/tabContainer
+    text: ''
+  contentContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/contentContainer
+    text: ''
+  clickContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/clickContainer
+    text: ''
+  titleContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/titleContainer
+    text: ''
+  indicatorContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/indicatorContainer
+    text: ''
+  indicator:
+    id: com.xiaomi.shop.plugin.homepage:id/indicator
+    text: ''
+  viewPager:
+    id: com.xiaomi.shop.plugin.homepage:id/viewPager
+    text: ''
+  image:
+    id: com.xiaomi.shop.plugin.homepage:id/image
+    text: ''
+  mine_icon_vip_text:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_icon_vip_text
+    text: ''
+  mine_root_right_bar:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_right_bar
+    text: ''
+  mine_root_icon_scan:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_icon_scan
+    text: ''
+  mine_root_icon_setting:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_icon_setting
+    text: ''
+  mine_root_icon_msg:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_icon_msg
+    text: ''
+  mine_root_floating_recommend:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_floating_recommend
+    text: ''
+  main_bottom_tab:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab
+    text: ''
+  main_bottom_home_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_home_navbar
+    text: ''
+  main_view_nav_bar_empty:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_empty
+    text: ''
+  main_view_nav_bar_icon_normal:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_icon_normal
+    text: ''
+  main_view_nav_bar_text:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_text
+    text: 首页
+  main_bottom_home:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_home
+    text: ''
+  main_bottom_category_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_category_navbar
+    text: ''
+  main_bottom_category:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_category
+    text: ''
+  main_bottom_discovery_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_discovery_navbar
+    text: ''
+  main_bottom_discovery:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_discovery
+    text: ''
+  main_bottom_cart_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_cart_navbar
+    text: ''
+  main_bottom_cart:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_cart
+    text: ''
+  main_bottom_mine_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_mine_navbar
+    text: ''
+  main_view_nav_bar_icon_selected:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_icon_selected
+    text: ''
+  main_bottom_mine:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_mine
+    text: ''
+  main_bottom_tab_shadow:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab_shadow
+    text: ''
+  main_bottom_tab_bg:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab_bg
+    text: ''
+  mine_root_top_alpha_bar:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_top_alpha_bar
+    text: ''
+  mine_root_user_name:
+    id: com.xiaomi.shop.plugin.homepage:id/mine_root_user_name
+    text: 我的
+  productTitle:
+    id: com.xiaomi.shop.plugin.homepage:id/productTitle
+    text: 小米多功能运动休闲胸包
+  productMarketPrice:
+    id: com.xiaomi.shop.plugin.homepage:id/productMarketPrice
+    text: ¥69
+  priceContainer:
+    id: com.xiaomi.shop.plugin.homepage:id/priceContainer
+    text: ''
+  priceContent:
+    id: com.xiaomi.shop.plugin.homepage:id/priceContent
+    text: ''
+  productPriceLabel:
+    id: com.xiaomi.shop.plugin.homepage:id/productPriceLabel
+    text: ¥
+  productPrice:
+    id: com.xiaomi.shop.plugin.homepage:id/productPrice
+    text: '59'
+  productSimilarClick:
+    id: com.xiaomi.shop.plugin.homepage:id/productSimilarClick
+    text: ''
+  productSimilar:
+    id: com.xiaomi.shop.plugin.homepage:id/productSimilar
+    text: 看相似
+  productLabel:
+    id: com.xiaomi.shop.plugin.homepage:id/productLabel
+    text: 包邮
+  flowAction:
+    id: com.xiaomi.shop.plugin.homepage:id/flowAction
+    text: ''
+SettingPage:
+  content:
+    id: android:id/content
+    text: ''
+  primary:
+    id: android:id/primary
+    text: ''
+  basefragment_titlebar:
+    id: com.xiaomi.shop2.plugin.setting:id/basefragment_titlebar
+    text: ''
+  basetitle_iconleft:
+    id: com.xiaomi.shop2.plugin.setting:id/basetitle_iconleft
+    text: ''
+  basetitle_layoutcenter:
+    id: com.xiaomi.shop2.plugin.setting:id/basetitle_layoutcenter
+    text: ''
+  basetitle_layoutcenter_title:
+    id: com.xiaomi.shop2.plugin.setting:id/basetitle_layoutcenter_title
+    text: 设置
+  pref_item_profile:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_profile
+    text: ''
+  pref_item_address:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_address
+    text: ''
+  pref_item_permission:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_permission
+    text: ''
+  pref_item_policy_mi:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_policy_mi
+    text: ''
+  pref_item_push:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_push
+    text: ''
+  push_time_info:
+    id: com.xiaomi.shop2.plugin.setting:id/push_time_info
+    text: 免打扰时间:23:00-次日8:00
+  push_switch_info:
+    id: com.xiaomi.shop2.plugin.setting:id/push_switch_info
+    text: 已开启
+  pref_item_about_shop:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_about_shop
+    text: ''
+  pref_item_feedback:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_feedback
+    text: ''
+  pref_item_agreement_rules:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_agreement_rules
+    text: ''
+  pref_item_qualification_certificate:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_qualification_certificate
+    text: ''
+  pref_item_shop_user_p_mi:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_shop_user_p_mi
+    text: ''
+  pref_item_account_mi_agreement:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_account_mi_agreement
+    text: ''
+  pref_item_privacy_mi:
+    id: com.xiaomi.shop2.plugin.setting:id/pref_item_privacy_mi
+    text: ''
+addCart:
+  content:
+    id: android:id/content
+    text: ''
+  header_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/header_view
+    text: ''
+  goods_img:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_img
+    text: ''
+  goods_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_price
+    text: ¥1599
+  market_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/market_price
+    text: ¥1699
+  goods_name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/goods_name
+    text: Redmi Note 10 Pro 6GB+128GB 幻青
+  combo_up_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/combo_up_icon
+    text: ''
+  close_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/close_btn
+    text: ''
+  scroll_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/scroll_view
+    text: ''
+  style_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/style_container
+    text: ''
+  view_phone_style_section_title_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/view_phone_style_section_title_container
+    text: ''
+  view_phone_style_section_title:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/view_phone_style_section_title
+    text: 版本
+  view_phone_style_section_itemcontainer:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/view_phone_style_section_itemcontainer
+    text: ''
+  name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/name
+    text: 6GB+128GB
+  ext_buy_option_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/ext_buy_option_container
+    text: ''
+  count_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/count_view
+    text: ''
+  textView:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/textView
+    text: 购买数量
+  ViewStyle_Count_viewRoot:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/ViewStyle_Count_viewRoot
+    text: ''
+  sub_count_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/sub_count_btn
+    text: ''
+  count_txt:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/count_txt
+    text: '1'
+  add_count_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/add_count_btn
+    text: ''
+  service_group_view:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_group_view
+    text: ''
+  service_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_container
+    text: ''
+  service_icon:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_icon
+    text: ''
+  service_name:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_name
+    text: 意外保护
+  help_btn:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/help_btn
+    text: 服务介绍
+  item_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/item_container
+    text: ''
+  service_layout:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_layout
+    text: ''
+  service_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_price
+    text: 199元
+  service_act_diff_price_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_act_diff_price_container
+    text: ''
+  service_act_diff_price:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/service_act_diff_price
+    text: 意外损免费修
+  layout_bottom_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/layout_bottom_container
+    text: ''
+  action_button_container:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/action_button_container
+    text: ''
+  action_text_org:
+    id: com.xiaomi.shop2.plugin.goodsdetail:id/action_text_org
+    text: 确定
+CartPage:
+  content:
+    id: android:id/content
+    text: ''
+  primary:
+    id: android:id/primary
+    text: ''
+  main_container:
+    id: com.xiaomi.shop.plugin.homepage:id/main_container
+    text: ''
+  cart_main_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/cart_main_container
+    text: ''
+  basefragment_titlebar:
+    id: com.xiaomi.shop2.plugin.shopcart:id/basefragment_titlebar
+    text: ''
+  basetitle_layoutcenter:
+    id: com.xiaomi.shop2.plugin.shopcart:id/basetitle_layoutcenter
+    text: ''
+  basetitle_layoutcenter_title:
+    id: com.xiaomi.shop2.plugin.shopcart:id/basetitle_layoutcenter_title
+    text: 购物车
+  basetitle_layoutright:
+    id: com.xiaomi.shop2.plugin.shopcart:id/basetitle_layoutright
+    text: ''
+  top_right_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/top_right_btn
+    text: ''
+  loading:
+    id: com.xiaomi.shop2.plugin.shopcart:id/loading
+    text: ''
+  view_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/view_container
+    text: ''
+  cart_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/cart_container
+    text: ''
+  v_divider:
+    id: com.xiaomi.shop2.plugin.shopcart:id/v_divider
+    text: ''
+  cart_content_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/cart_content_container
+    text: ''
+  pull_refresh_layout:
+    id: com.xiaomi.shop2.plugin.shopcart:id/pull_refresh_layout
+    text: ''
+  list_view:
+    id: com.xiaomi.shop2.plugin.shopcart:id/list_view
+    text: ''
+  cart_empty_header:
+    id: com.xiaomi.shop2.plugin.shopcart:id/cart_empty_header
+    text: ''
+  cart_empty_header_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/cart_empty_header_container
+    text: ''
+  empty_header_btn1:
+    id: com.xiaomi.shop2.plugin.shopcart:id/empty_header_btn1
+    text: 随便看看
+  iv_item_type8_product:
+    id: com.xiaomi.shop2.plugin.shopcart:id/iv_item_type8_product
+    text: ''
+  tv_item_type8_title:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tv_item_type8_title
+    text: 小米USB分线器
+  tv_item_type8_price:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tv_item_type8_price
+    text: ¥49
+  tv_item_type8_go2_similar:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tv_item_type8_go2_similar
+    text: 看相似
+  tv_item_type8_price_qi:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tv_item_type8_price_qi
+    text: 起
+  tv_item_type8_subtitle:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tv_item_type8_subtitle
+    text: 券
+  main_bottom_tab:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab
+    text: ''
+  main_bottom_home_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_home_navbar
+    text: ''
+  main_view_nav_bar_empty:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_empty
+    text: ''
+  main_view_nav_bar_icon_normal:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_icon_normal
+    text: ''
+  main_view_nav_bar_text:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_text
+    text: 首页
+  main_bottom_home:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_home
+    text: ''
+  main_bottom_category_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_category_navbar
+    text: ''
+  main_bottom_category:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_category
+    text: ''
+  main_bottom_discovery_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_discovery_navbar
+    text: ''
+  main_bottom_discovery:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_discovery
+    text: ''
+  main_bottom_cart_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_cart_navbar
+    text: ''
+  main_view_nav_bar_icon_selected:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_icon_selected
+    text: ''
+  main_bottom_cart:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_cart
+    text: ''
+  main_bottom_mine_navbar:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_mine_navbar
+    text: ''
+  main_bottom_mine:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_mine
+    text: ''
+  main_bottom_tab_shadow:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab_shadow
+    text: ''
+  main_bottom_tab_bg:
+    id: com.xiaomi.shop.plugin.homepage:id/main_bottom_tab_bg
+    text: ''
+  title_bar_editer_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/title_bar_editer_btn
+    text: 完成
+  check_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/check_container
+    text: ''
+  check_icon:
+    id: com.xiaomi.shop2.plugin.shopcart:id/check_icon
+    text: ''
+  business_title:
+    id: com.xiaomi.shop2.plugin.shopcart:id/business_title
+    text: 小米自营
+  main_cart_item_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/main_cart_item_container
+    text: ''
+  item_selector_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_selector_container
+    text: ''
+  item_selector:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_selector
+    text: ''
+  item_img_goto_goodsdetail:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_img_goto_goodsdetail
+    text: ''
+  item_img:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_img
+    text: ''
+  item_right_clicked_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_right_clicked_container
+    text: ''
+  item_id:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_id
+    text: Redmi Note 10 Pro
+  item_re_selector:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_re_selector
+    text: 6GB+128GB 幻青
+  tag_includer:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tag_includer
+    text: ''
+  item_price_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_price_container
+    text: ''
+  item_price_symbol:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_price_symbol
+    text: ¥
+  item_normal_price:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_normal_price
+    text: '1599'
+  item_original_price:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_original_price
+    text: ¥1699
+  item_num_selector_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_num_selector_container
+    text: ''
+  item_minus_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_minus_btn
+    text: ''
+  item_num_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_num_btn
+    text: '1'
+  item_plus_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_plus_btn
+    text: ''
+  item_extra_info_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_extra_info_container
+    text: ''
+  child_item_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/child_item_container
+    text: ''
+  sub_commodity_img:
+    id: com.xiaomi.shop2.plugin.shopcart:id/sub_commodity_img
+    text: ''
+  child_click_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/child_click_container
+    text: ''
+  item_tag_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_tag_container
+    text: ''
+  tag_orange_deep_stroke:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tag_orange_deep_stroke
+    text: 赠品
+  item_act_desc:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_act_desc
+    text: 小米单动圈耳机  黑色
+  item_act_num:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_act_num
+    text: x1
+  arrow_right_desc:
+    id: com.xiaomi.shop2.plugin.shopcart:id/arrow_right_desc
+    text: 换赠品
+  bargain_item_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/bargain_item_container
+    text: ''
+  tag_service:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tag_service
+    text: 服务
+  tag_bargain:
+    id: com.xiaomi.shop2.plugin.shopcart:id/tag_bargain
+    text: 换购
+  item_price_sale:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_price_sale
+    text: ¥209
+  item_price_cut:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_price_cut
+    text: (已省¥ 20)
+  item_more_bargain_btn_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_more_bargain_btn_container
+    text: ''
+  item_more_bargain_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/item_more_bargain_btn
+    text: 更多
+  bottom_container:
+    id: com.xiaomi.shop2.plugin.shopcart:id/bottom_container
+    text: ''
+  check_allgoods_containers:
+    id: com.xiaomi.shop2.plugin.shopcart:id/check_allgoods_containers
+    text: ''
+  check_allgoods_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/check_allgoods_btn
+    text: ''
+  edit_bottom_btn:
+    id: com.xiaomi.shop2.plugin.shopcart:id/edit_bottom_btn
+    text: ''
+  btn_fav:
+    id: com.xiaomi.shop2.plugin.shopcart:id/btn_fav
+    text: 移入收藏
+  delete:
+    id: com.xiaomi.shop2.plugin.shopcart:id/delete
+    text: 删除
+  main_view_nav_bar_num:
+    id: com.xiaomi.shop.plugin.homepage:id/main_view_nav_bar_num
+    text: '1'
+  delete_tips_title:
+    id: com.xiaomi.shop2.plugin.shopcart:id/delete_tips_title
+    text: 确认删除所选商品吗？
+  nav_text:
+    id: com.xiaomi.shop2.plugin.shopcart:id/nav_text
+    text: 取消
+  pos_text:
+    id: com.xiaomi.shop2.plugin.shopcart:id/pos_text
+    text: 确定

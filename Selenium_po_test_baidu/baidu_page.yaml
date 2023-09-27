@@ -1,0 +1,10 @@
+
+input:
+    desc: 输入框
+    type: ID
+    value: kw
+
+
+click:
+    loc: ID
+    el: su

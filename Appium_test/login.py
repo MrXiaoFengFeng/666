@@ -10,8 +10,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 desired_caps = {
     'platformName': 'Android',
-    'platformVersion': '6.0.1',
-    'deviceName': '127.0.0.1:7555',
+    'platformVersion': '9',
+    'deviceName': '127.0.0.1:59865',
     'appPackage': 'com.xueqiu.android',
     'appActivity': '.view.WelcomeActivityAlias',
     'automationName': 'UiAutomator2',

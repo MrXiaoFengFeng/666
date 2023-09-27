@@ -70,7 +70,8 @@ test_suite:
         postid: SF1631643020688
 
     extract:
-        session: cookies.Session
+#        session: cookies.Session
+        context: json.data[0].context
 
     validate:
       - key_word: eq

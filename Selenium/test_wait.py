@@ -1,5 +1,6 @@
 from time import sleep
 
+import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
@@ -10,6 +11,7 @@ class TestWait:
     def setup(self):
         self.driver = webdriver.Chrome()
         self.driver.get("https://testerhome.com/thbd")
+        # 隐式等待
         self.driver.implicitly_wait(3)
 
     def teardown(self):
@@ -25,8 +27,13 @@ class TestWait:
         print('++++++++')
         # 是否可以点击
         el = expected_conditions.element_to_be_clickable((By.XPATH, "//*[@class='card-header']"))
+        # 显示等待
         WebDriverWait(self.driver, 10).until(el)
         print('666')
         self.driver.find_element(By.LINK_TEXT, "所有成员...").click()
         print("hello")
         sleep(3)
+
+
+if __name__ == '__main__':
+    pytest.main()

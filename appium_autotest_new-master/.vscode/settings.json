@@ -1,0 +1,15 @@
+{
+    "python.testing.pytestArgs": [
+        "TestCase"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.autoComplete.extraPaths": [
+        "./Common", "./Pages"
+    ],
+    "python.analysis.extraPaths": [
+        "./Common",
+        "./Pages"
+    ]
+}

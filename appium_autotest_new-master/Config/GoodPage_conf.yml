@@ -1,0 +1,9 @@
+path : ['分类', 'Redmi手机', 'Redmi Note 10 Pro']
+price : 1599
+market_price : 1699
+micoin : 160
+hasvideo : True
+detailprice :
+  6GB+128GB: [1599,1699]
+  8GB+128GB: [1799,1899]
+  8GB+256GB: [1999,2099]
