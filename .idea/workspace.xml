@@ -4,90 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c936c28c-31ba-4e87-83c4-07b23179419d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Appium_PO/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Appium_PO/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Appium_PO/test_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Appium_test/app/login1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_Selenium_Wework_PO/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_Selenium_Wework_PO/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_Selenium_Wework_PO/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_Selenium_Wework_PO/register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_Selenium_Wework_PO/test_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlayWright_Test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlayWright_Test/baidu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytets_Ini/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytets_Ini/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytets_Ini/test02.py" afterDir="false" />
+    <list default="true" id="c936c28c-31ba-4e87-83c4-07b23179419d" name="Default Changelist" comment="最近一次新增PO相关+playwright">
+      <change afterPath="$PROJECT_DIR$/Appium_PO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Appium_test/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/page/basepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/page/free.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/page/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/page/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/feishu_po/testcase/test_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/test_feishu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/test_feishu/c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_ActionChains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_BarScroll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_SwitchWindows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_add_cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_base_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_js.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_switchto_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/test_upload_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/upload.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/baidu_page.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/baidu_page_unnitest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/baidu_test_basepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/baitu_test_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_po_test_baidu/data_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_wework_main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_wework_main/page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_wework_main/page/add_member.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_wework_main/page/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_wework_main/test_case/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_wework_main/test_case/test_addmember.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeiXin/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jiajie_class/request_demo_new/utils/cache_handler1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request_demo/utils/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WorkSpace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WorkSpace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appium_autotest_new-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jiajie_class/request_demo_new/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Appium_test/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Appium_test/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Appium_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Appium_test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/test_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/test_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright_Test/baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlayWright_Test/baidu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/A/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/.idea/Tencent12ProTesting.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenium_Po/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/A/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tencent12ProTesting/python/calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request_demo/data/http_get_testsuit1.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/request_demo/data/http_get_testsuit1.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request_demo/utils/data_handler1.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_demo/utils/data_handler1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +39,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:MrXiaoFengFeng/WorkSpace.git" />
+      </set>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -126,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Selenium_wework_main/page" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -320,6 +256,9 @@
       <workItem from="1695289148935" duration="11986000" />
       <workItem from="1695400758530" duration="589000" />
       <workItem from="1695488113161" duration="8671000" />
+      <workItem from="1695835232176" duration="1123000" />
+      <workItem from="1703435059866" duration="591000" />
+      <workItem from="1703508892573" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="??">
       <created>1678133456333</created>
@@ -349,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679756175297</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="最近一次新增PO相关+playwright">
+      <created>1695835472979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695835472979</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,36 +336,20 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="??" />
     <MESSAGE value="66" />
     <MESSAGE value="更新一波" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新一波" />
+    <MESSAGE value="最近一次新增PO相关+playwright" />
+    <option name="LAST_COMMIT_MESSAGE" value="最近一次新增PO相关+playwright" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="786" y="309" key="#Notifications" timestamp="1694711400803">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="786" y="309" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1694711400803" />
     <state x="838" y="298" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1695232721577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="298" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1695232721577" />
-    <state x="671" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1694722333896">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="671" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1694722333896" />
-    <state x="915" y="272" key="FileChooserDialogImpl" timestamp="1694588768807">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="915" y="272" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1694588768807" />
     <state width="1318" height="297" key="GridCell.Tab.0.bottom" timestamp="1695498727058">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -436,14 +366,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1318" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1695498727058" />
-    <state x="162" y="0" key="SettingsEditor" timestamp="1694725967041">
+    <state x="211" y="0" key="SettingsEditor" timestamp="1703508971465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="162" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1694725967041" />
-    <state x="677" y="442" width="582" height="262" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1694588613337">
+    <state x="211" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1703508971465" />
+    <state x="352" y="103" key="Vcs.Push.Dialog.v2" timestamp="1695835487163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="677" y="442" width="582" height="262" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694588613337" />
+    <state x="352" y="103" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1695835487163" />
     <state x="1008" y="5" width="1009" height="1034" key="search.everywhere.popup" timestamp="1694885196502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
