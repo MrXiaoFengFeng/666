@@ -5,5 +5,6 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.goto('https://baidu.com')
     print(page.title())
+    print("hello")
 
     browser.close()
