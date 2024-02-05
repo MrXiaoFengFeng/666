@@ -7,7 +7,8 @@ with sync_playwright() as p:
         headless=False,
         args=['--start-maximized']
     )
-    page = browser.new_page(no_viewport=False)
+    context = browser.new_context(no_viewport=False)
+    page = context.new_page()
     page.goto('https://so.gushiwen.cn/user/login.aspx?from=http://so.gushiwen.cn/user/collect.aspx')
 
     page.locator('#email').fill('232@qq.com')
